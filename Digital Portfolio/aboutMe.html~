@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <title>About Me- Pranav Krishnan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <div class="header">
+      <h6> <a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/aboutMe.html'>About Me</a>~~~~~~~~<a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/directory.html'>Directory</a>~~~~~~~~<a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/cs1ISP.html'>CS1 ISP</a>~~~~~~~~<a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/cs1.html'>CS1</a>~~~~~~~~<a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/index.html'>index</a>  </h2>
+    </div>
+      <div class="w3-container w3-blue">
+	<h1>About Me</h1>
+    </div>
+<body>
+    <img src="https://i.imgur.com/OgMCxRQ.jpeg" alt="Pranav Krishnan" style="width:50%">
+
+    <div class="w3-container">
+      <p>My name is Pranav Krishnan and I am a student at Allen Highschool. I am in Computer Science Honor Society <br/> National Honor Society, Robotics, Deca, Math Honor Society and Science Honor Society </p>
+    </div>
+
+    <div class="w3-container w3-blue">
+      <p>Some of my hobbies are playing basketball, watching movies, painting, and coding of course! <br/> Im an only child and I have a dog that is a Golden Retriver, his name is Maximus!</p>
+    </div>
+
+  </body>
+</html>

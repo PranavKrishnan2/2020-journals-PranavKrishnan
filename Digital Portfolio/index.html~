@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Index.html-Pranav Krishnan</title>
+  </head>
+  <h1>Digital Portflio Index <h1/>
+    <body>
+      <style>
+	body {
+	    background-image: url('https://img.freepik.com/free-vector/white-gray-geometric-pattern-background-vector_53876-136510.jpg?w=1380&t=st=1660780065~exp=1660780665~hmac=cda9989e015032455ebd6798aeeceb0900c4f374107f18500f8650814fbe3d1d');
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+	    background-size: 100% 100%;
+	    text-align: center;
+	    font-family: monoscape;
+	    font-size: 100;
+	}
+      </style>
+      <h5>
+	<br/>
+	<br/>
+	<p>This Digital portfolio is important to me because it displays my ability and experiences I've gained throughout High School. <br/> I can show this to my future employers and colleagues to illustrate what courses i've taken and concepts I've learned.</p>
+	<a href="https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/directory.html">Link to my Directory</a>
+	  <br/>
+	  <br/>
+	  <a href="https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/aboutMe.html">Link to my About me</a>
+	  <br/>
+	  <br/>
+	  <a href="https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/cs1.html">Link to my CS1 page </a>
+	  <br/>
+	  <br/>
+	  <a href="https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/cs1ISP.html">Link to my Computer Science 1 ISP</a>
+    </body>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <footer>
+
+      <a href="https://www.freepik.com/vectors/subtle">Background by starline - www.freepik.com</a>
+    </footer>
+
+</body>
+</html>
+

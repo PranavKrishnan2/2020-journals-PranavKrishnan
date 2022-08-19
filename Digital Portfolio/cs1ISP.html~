@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <title>CS1 ISP</title>
+  <h2> <a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/aboutMe.html'>About Me</a>~~~~~~~~<a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/directory.html'>Directory
+    </a>~~~~~~~~<a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/cs1ISP.html'>CS1 ISP</a>~~~~~~~~<a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/cs1.html'>CS1</a>~~~~~~~~<a href='https://www.codermerlin.com/users/pranav-krishnan/Digital%20Portfolio/index.html'>index</a>  </h2>
+
+
+  <style>
+    background-color:#B6D0E2;
+  </style>
+  <body style="background-color:#B6D0E2">
+  <body>
+    My Isp was a text-based story game called the Mystery of the Manor.
+    <br/>
+    <br/>
+    Concept: I wanted to create a game where you could choose your own adventure and make meaningful choices that affect the story in unique and interesting ways.
+
+
+    
+    The Plot : You and three of your friends decide to rent a mansion for the summer. However, the mansion is haunted and traps people that stay in it. While you and your friends are preparing for the night, the power goes out and a storm hits the house. It is up to the player to uncover the mysteries that the manor holds and to survive the night.
+    <br/>
+    <br/>
+    Problems faced: figuring out How to make the story have elements (characters, villains, etc.) that make changes to the story without making the code unreadable.
+    <br/>
+    <br/>
+    <br/>
+    How we overcame these issues: We wrote the story with enough details to keep it interesting but not so many which might make it long. We also added things like plot twists, reveals, etc. to make it interesting. We also used functions for every choice in the game to keep track of the code and also use short pieces of code that can function properly and make the game work
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    Some example code:
+    <br/>
+    <img src="https://i.imgur.com/wMG9etl.jpg" alt="code example" style="width:50%">
+<br/>
+    This is an example of how we organized our code to make our story connect between scenes
+    <br/>
+    <br/>
+    <img src="https://i.imgur.com/7dhgTPU.jpg" alt="code example" style="width:50%">
+<br/>
+    We used variables are the read line function to save the users names and other information throughout the game
+    <br/>
+    <br/>
+    <br/>
+    Reflection: I really enjoyed making this game but I had expected to have made a more elaborate story with better code. Even though my game didnt meet my expectations I learned a lot while writing and coding this game.
+    <br/>
+  </body>
+</html>
+
